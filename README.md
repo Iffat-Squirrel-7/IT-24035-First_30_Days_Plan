@@ -1,1 +1,5 @@
 # IT-24035-First_30_Days_Plan
+1.Date:19_April_2026
+Day#01:
+Topic:Class & Object
+Video:https://youtu.be/lWFzm8qIR1c?si=qsy57QHu3l_7zKWh
